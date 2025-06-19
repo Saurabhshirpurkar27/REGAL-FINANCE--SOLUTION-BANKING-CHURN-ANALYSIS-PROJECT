@@ -129,7 +129,4 @@ This repository addresses key business challenges and provides insights based on
 - Access to Google Cloud Platform.  
 - Power BI Desktop for dashboard visualization.  
 
-### **Setup**  
-1. Clone this repository:  
-   ```bash  
-   git clone [https://github.com/AyushAI/RegalCloud-AI-Solutions-Financial-Workflow-Automation-from-Outlook-to-Dockerized-ML.git]
+
